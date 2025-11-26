@@ -139,10 +139,10 @@ Ruang dengan ρ tinggi **rawan antrian panjang.**
 Ruang dengan ρ < 0.4  **underutilized.**
 
 Rekomendasi:
-- Pemerataan jadwal antar-ruangan
-- Penyesuaian durasi slot
-- Menambah buffer antar jadwal
-- Penambahan server (ruangan) pada tanggal padat
+- Pemerataan jadwal antar-ruangan,
+- Penyesuaian durasi slot,
+- Menambah buffer antar jadwal,
+- Penambahan server (ruangan) pada tanggal padat.
 
 ## 👥 Tim Penyusun
 
